@@ -1,10 +1,7 @@
 //For command line git tutorial
 //local repository modification
-
-
 //For command line git tutorial
 //GitHub modification
-
 
 public class Hello{
     public static void main(String[] args){
@@ -12,6 +9,7 @@ public class Hello{
       System.out.println("what is Git?");
       System.out.println("That's DVC");
       system.out.println.("2002, Bitkeeper");
-
+   }  
+}
 
 
